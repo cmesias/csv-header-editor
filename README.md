@@ -4,4 +4,5 @@
 Live website: https://cmesias.github.io/csv-header-editor/
 
 # Screenshot
-![image](https://github.com/user-attachments/assets/23d3620e-68a5-451a-a829-214d29992134)
+![image](https://github.com/user-attachments/assets/5229e6c1-1f0f-4aea-aa89-ac37f12bc898)
+
